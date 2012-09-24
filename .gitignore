@@ -17,3 +17,7 @@ test/UnitTest/build/
 project.xcworkspace
 xcuserdata
 .arc
+
+# generated files can be ignored
+src/FBSDKVersion-generated.h
+
